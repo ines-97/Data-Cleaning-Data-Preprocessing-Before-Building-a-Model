@@ -15,4 +15,8 @@ This project contain all the steps for data cleaning before getting into the mod
 
 **Transformation:** Normalize or standardize numerical features, encode categorical variables, etc.
 
+-use can find the data file on Kaggle:
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+
 
